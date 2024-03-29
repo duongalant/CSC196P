@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540137993728",
+    "project_id": "lab10-401d7",
+    "storage_bucket": "lab10-401d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540137993728:android:ab278f6937cca6a0a98ae5",
+        "android_client_info": {
+          "package_name": "alantduong.com.lab10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNanGPjw2lrDUBK_s29RE29fwGejl1BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
